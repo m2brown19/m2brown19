@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @m2brown19
-- 👀 I’m interested in cyber security, penetration testing, and red teaming
-- 🌱 I’m currently learning programming (Python and java)
-- 💞️ I’m looking to collaborate on beginner programming projects and beginner cyber projects
+- 👀 I’m interested in programming, cyber R&D, network security, reverse engineering, forensics, red teaming, and penetration testing. 
 - 📫 How to reach me: message me on github
 
 <!---
