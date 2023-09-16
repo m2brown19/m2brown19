@@ -1,4 +1,8 @@
-- Hi, I’m Michael Brown. 
+- Hi, I’m Michael Brown!
+
+- About me:
+
+- I am a recent UVA grad with experience in SWE and hacking. 
 - 
 - I’m interested in programming, cyber R&D, network security, reverse engineering, forensics, red teaming, and penetration testing.
 - 
