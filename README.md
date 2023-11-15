@@ -1,6 +1,6 @@
 - Hi, I’m Michael Brown!
 - I am a recent UVA grad with experience in SWE and hacking. 
-- I’m interested in programming, cyber R&D, network security, reverse engineering, forensics, red teaming, and penetration testing.
+- I’m interested in programming, DevOps, cyber R&D, network security, reverse engineering, forensics, red teaming, and penetration testing.
 - I have my calorie counter / custom meal builder posted in my Food-code repo. 
 - I have awesome network, cryptocurrency, and OS projects that I completed at UVA on here (including my Metasploit modules that I built to hack a Windows machine).
 - I have a recipe hosting website that is currently under maintenance as I am transitioning it from using Microsoft Azure to AWS. It is in a private repo, but I will post the link as soon as I fix it. 
