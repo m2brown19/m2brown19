@@ -1,6 +1,6 @@
 - Hi, I’m Michael Brown!
 - I am a recent UVA grad with experience in SWE and hacking. 
-- I’m interested in programming, DevOps, cyber R&D, network security, reverse engineering, forensics, red teaming, and penetration testing.
 - I have awesome network, cryptocurrency, and OS projects that I completed at UVA on here (including my Metasploit modules that I built to hack a Windows machine).
-- I have a recipe hosting website that is currently under maintenance as I am transitioning it from using Microsoft Azure to AWS. It is in a private repo, but I will post the link as soon as I fix it. 
+- I have a recipe hosting website that is currently under maintenance as I am transitioning it from using Microsoft Azure to AWS. It is in a private repo, but I will post the link as soon as I fix it.
+- Interested in programming, DevOps, cyber R&D, network security, reverse engineering, forensics, red teaming, and penetration testing.
 - How to reach me: <div id="badges"> <a href="https://www.linkedin.com/in/michael-brown-5042581a3/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>
